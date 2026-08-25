@@ -4,11 +4,6 @@ An AI-powered computer vision project that creates an interactive **fire portal 
 
 The system detects hand movements in real time and uses them to open and close an animated portal. It combines computer vision, hand tracking, gesture recognition, and real-time graphics.
 
-## 🖼️ Project Preview
-
-![AI Hand Controlled Portal](assets/portal.png)
-
-> Add your portal screenshot inside the `assets` folder and name it `portal.png`.
 
 ---
 
